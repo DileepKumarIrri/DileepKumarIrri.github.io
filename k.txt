@@ -1,0 +1,58 @@
+NSTL-DRDO National Technology Day Celebration (NTDC)-2024
+Event Details:
+
+Subject: Invitation for National Technology Day Celebration (NTDC)-2024
+Date: 08 May 2024
+Venue: NSTL-DRDO, Visakhapatnam
+
+NTDC-2024 is being celebrated at NSTL-DRDO on 10th May 2024. The event includes open house exhibitions, multimedia presentations of NSTL-DRDO technologies, and exhibits by various institutes on the theme "From Schools to Startup: Igniting young Minds to Innovate." Selected participants are requested to report to Ramnath Secondary School, NSTL DRDO Residential complex for registration2.
+List of Projects for NTDC-2024:
+<li>Solar Panel Dirt Detection and Surface Cleaning Robot - Vignan Institute of Engineering for Women</li>
+<li>Underwater Navigation and Depth Measurement Using Sonar - Vignan's Nirula Institute of Technology and Science for Women</li>
+<li>Implementation of Negative GRF Inhibition in Bipedal Animatronics - Botclub</li>
+<li>Design and Fabrication Of versatile Assestive Hand - GVP College (A)</li>
+<li>Gesture-Based Hardware and Software Control - GVP College (A)</li>
+<li>Automatic Traffic Control System by Image Processing - Gayatri Vidya Parishad College for degree and PG</li>
+<li>Connected Street Poles - GVP College (A)</li>
+<li>Aqua Cycle Generator - Raghu Engineering College</li>
+<li>Detoxification and Recovery System for Ambulances - MVGR College</li>
+<li>Oncology Care Management System - Raghu Engineering College</li>
+<li>Audio-Based Machine Learning Respect System from Public Surveillance - Sankethika</li>
+<li>Design of Artificial Intelligence-Based Charging Station Management for Electric Vehicles - Sankethika</li>
+<li>Comparison of R.F & Microwave Energy-Free Cell Phone Charger - Sankethika Engineering College (Women's)</li>
+<li>Developing Low-Cost Hydro Power Employing Water Wheel for Rural Areas - Diet R&D</li>
+<li>Gas Sensor Analysis and Verification from Kitchen Air Using Vapor Thin Films - Diet R&D</li>
+<li>Behavioral Data Systems for Real-Time User Monitoring & Tracking System - Diet R&D</li>
+<li>Study & Selection on Performance of Regenerative Brake - Diet R&D</li>
+<li>Transferring Data Using Visible Light - Diet R&D</li>
+<li>An Experimental Study on Real-Time Behavior of Microbial & Sustainable Self-Healing Rubber Concrete - 3</li>
+<li>Wireless Shaft Power Measurement System for Heavy Vehicles - 3</li>
+<li>Hydraulic Rotating Bridge Model - Developed by 🏗️, this project focuses on designing a hydraulic bridge model that can rotate efficiently, allowing for better traffic flow and management.</li>
+<li>Voice Communication System of Dumb System - Developed by 🗣️, aims to create a communication system specifically designed for individuals with speech and hearing impairments, enabling them to interact effectively.</li>
+<li>Rojalin Mallick for Biconical Antenna Temperature Monitoring Signal Conditioning Circuit - In collaboration with 🌡️, explores temperature monitoring using biconical antennas and signal conditioning circuits for various applications.</li>
+<li>Wireless Shaft Power Measurement System for Heavy Vehicles - 🚚 develops a wireless system to accurately measure shaft power in heavy vehicles, aiding in performance optimization and maintenance.</li>
+<li>Empowering Hydraulic Rotating Bridge Model - Another project by 🏗️, this aims to enhance the functionality and safety of hydraulic rotating bridges, making them more reliable for transportation networks.</li>
+<li>Voice Communication System of Dumb System - Developed by 🗣️, this project aims to create a communication system specifically designed for individuals with speech and hearing impairments, enabling them to interact effectively.</li>
+<li>Rojalin Mallick for Biconical Antenna Temperature Monitoring Signal Conditioning Circuit - In collaboration with 🌡️, explores temperature monitoring using biconical antennas and signal conditioning circuits for various applications.</li>
+<li>Wireless Shaft Power Measurement System for Heavy Vehicles - 🚚 develops a wireless system to accurately measure shaft power in heavy vehicles, aiding in performance optimization and maintenance.</li>
+<li>An Experimental Study on Real-Time Behavior of Microbial & Sustainable Self-Healing Rubber Concrete - 🧪 investigates the behavior of microbial-infused self-healing rubber concrete for sustainable construction.</li>
+<li>Wireless Shaft Power Measurement System for Heavy Vehicles - This project aims to develop a wireless system for accurately measuring shaft power in heavy vehicles, which can aid in performance optimization and maintenance1.</li>
+<li>Empowering Hydraulic Rotating Bridge Model - The project focuses on enhancing the functionality and safety of hydraulic rotating bridges, making them more reliable for transportation networks1</li>
+<li>Voice Communication System of Dumb System - The project aims to create a communication system specifically designed for individuals with speech and hearing impairments, enabling effective interaction1.</li>
+<li>Rojalin Mallick for Biconical Antenna Temperature Monitoring Signal Conditioning Circuit - In collaboration with Michigan Scientific Corporation, Rojalin Mallick explores temperature monitoring using biconical antennas and signal conditioning circuits for various applications1.</li>
+<li>Wireless Shaft Power Measurement System for Heavy Vehicles - This project aims to develop a wireless system for accurately measuring shaft power in heavy vehicles, aiding in performance optimization and maintenance1.</li>
+<li>An Experimental Study on Real-Time Behavior of Microbial & Sustainable Self-Healing Rubber Concrete - The project investigates the behavior of microbial-infused self-healing rubber concrete for sustainable construction3.</li>
+<li>Wireless Shaft Power Measurement System for Heavy Vehicles - Another project by Michigan Scientific Corporation, this system focuses on measuring shaft power in heavy vehicles wirelessly1.</li>
+<li>Empowering Hydraulic Rotating Bridge Model - Michigan Scientific Corporation continues to enhance the functionality and safety of hydraulic rotating bridges1.</li>
+<li>Voice Communication System of Dumb System - Michigan Scientific Corporation further develops the communication system for individuals with speech and hearing impairments1.</li>
+<li>Rojalin Mallick for Biconical Antenna Temperature Monitoring Signal Conditioning Circuit - Rojalin Mallick's project continues to explore temperature monitoring using biconical antennas and signal conditioning circuits1.</li>
+<li>Wireless Shaft Power Measurement System for Heavy Vehicles - Michigan Scientific Corporation persists in developing a wireless system for accurate shaft power measurement in heavy vehicles1.</li>
+<li>Hydraulic Rotating Bridge Model - Developed by Michigan Scientific Corporation, this project focuses on designing a hydraulic bridge model that can rotate efficiently, allowing for better traffic flow and management1.</li>
+<li>Voice Communication System of Dumb System - Michigan Scientific Corporation aims to create a communication system specifically designed for individuals with speech and hearing impairments, enabling them to interact effectively1.</li>
+<li>Rojalin Mallick for Biconical Antenna Temperature Monitoring Signal Conditioning Circuit - In collaboration with Michigan Scientific Corporation, Rojalin Mallick explores temperature monitoring using biconical antennas and signal conditioning circuits for various applications1.</li>
+<li>Wireless Shaft Power Measurement System for Heavy Vehicles - Michigan Scientific Corporation develops a wireless system to accurately measure shaft power in heavy vehicles, aiding in performance optimization and maintenance1.</li>
+<li>An Experimental Study on Real-Time Behavior of Microbial & Sustainable Self-Healing Rubber Concrete - This project investigates the behavior of microbial-infused self-healing rubber concrete for sustainable construction3.</li>
+<li>Wireless Shaft Power Measurement System for Heavy Vehicles - Another project by Michigan Scientific Corporation, this system focuses on measuring shaft power in heavy vehicles wirelessly1.</li>
+<li>Empowering Hydraulic Rotating Bridge Model - Michigan Scientific Corporation continues to enhance the functionality and safety of hydraulic rotating bridges1.</li>
+<li>Voice Communication System of Dumb System - Michigan Scientific Corporation further develops the communication system for individuals with speech and hearing impairments1.</li>
+
